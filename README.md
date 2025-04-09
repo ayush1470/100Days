@@ -1,4 +1,8 @@
-# 100Days
-This Repository contains 100 DSA problems that I did in 100 Days consistently.
+# 100Days of Code (Java)
+
+This repository contains my daily Java practice as part of the #100DaysOfCode challenge.
 <br>
-## To view code: src->Main.java
+## Goals
+- Practice Java daily
+- Explore DSA concepts
+- Build consistency
