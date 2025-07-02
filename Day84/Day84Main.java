@@ -1,4 +1,4 @@
-/* LeetCode Problem: (594): Longest Harmonious Subsequence */
+/* LeetCode Problem: (4): Median of Two Sorted Arrays */
 
 import java.util.Arrays;
 
